@@ -1,6 +1,6 @@
 # 软件工程专业官网
 
-本项目是基于Vue 3、Vite、Element UI和Nginx构建的现代化单页应用程序（SPA），旨在为软件工程专业的学生、教师和访客提供一个信息丰富、易于导航的官方信息平台。
+🎉本项目是基于Vue 3、Vite、Element UI和Nginx构建的现代化单页应用程序（SPA），旨在为软件工程专业的学生、教师和访客提供一个信息丰富、易于导航的官方信息平台。
 
 ## 特性
 
@@ -25,10 +25,12 @@
 git clone https://github.com/your-username/your-repo.git
 cd your-repo
 npm install
+```
 
-2. 运行开发服务器
+### 2. 运行开发服务器
 使用下面的命令来启动开发服务器：
-
+```
 sh
 npm run dev
+```
 访问 http://localhost:8088 来查看您的应用。
